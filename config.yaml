@@ -1,6 +1,6 @@
-baseURL: https://www.example.com/
+baseURL: https://dhanteybusiness-blog.netlify.app
 languageCode: en-us
-title: Hugo Hero Theme
+title: DARKS ENTERPRISE
 theme: hugo-hero-theme
 module:
   hugoVersion:
@@ -30,8 +30,8 @@ params:
     mobile_width: 36px
 menu:
   main:
-    - name: Services
-      url: /services/
+    - name: Home
+      url: /Home/
       weight: 1
     - name: Work
       url: /work/
