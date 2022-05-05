@@ -9,25 +9,21 @@ module:
 params:
   google_analytics_id: ''
   homepage_meta_tags:
-    meta_description: Hero is a multipurpose Hugo theme with fullscreen hero images
-      and page sections. It contains content types for a business or portfolio site.
-    meta_og_description: Hero is a multipurpose Hugo theme with fullscreen hero images
-      and page sections. It contains content types for a business or portfolio site.
-    meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
-    meta_og_title: Hugo Hero Theme
+    meta_description: Darks Enterprise deals in the selling of automobile parts, assembling and dessembling vehicles.
+    meta_og_image: C:/Users/dante/Documents/Github/Business-blog/resources/_gen/images/OiP.jpg
+    meta_og_title: DARKS ENTERPRISE
     meta_og_type: website
-    meta_og_url: https://hugo-hero.netlify.app
-    meta_twitter_card: summary
-    meta_twitter_creator: '@zerostaticio'
-    meta_twitter_site: '@zerostaticio'
+    meta_og_url:  https://dhanteybusiness-blog.netlify.app
+    meta_twitter_creator: '@dhanteybusiness-blog'
+    meta_twitter_site: '@dhanteybusiness-blog'
   logo:
-    alt: Hugo Hero
-    desktop: images/logo.svg
-    desktop_height: 29px
-    desktop_width: 217px
-    mobile: images/logo-mobile.svg
-    mobile_height: 36px
-    mobile_width: 36px
+    alt: Darks Enterprise
+    desktop: images/ky.bmp
+    desktop_height: 13px
+    desktop_width: 100px
+    mobile: images/ky.bmp
+    mobile_height: 26px
+    mobile_width: 26px
 menu:
   main:
     - name: Home

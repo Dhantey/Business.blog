@@ -1,7 +1,7 @@
 ---
 title: 'We Insight The Growth Of Business'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/IOP.jpg'
 button: 'equiped service'
 buttonLink: 'service'
 ---
