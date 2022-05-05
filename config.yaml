@@ -27,7 +27,7 @@ params:
 menu:
   main:
     - name: Home
-      url: /Home/
+      url: /homepage/
       weight: 1
     - name: Work
       url: /work/
