@@ -4,4 +4,6 @@ heroBackground: images/Cars.jpg
 heroHeading:  DARKS ENTERPRISE
 heroSubHeading: Darks Enterprise deals in the selling of automobile parts, assembling and dessembling vehicles.
 title: Home
+button: Home
+buttonlink: 'homepage'
 ---
